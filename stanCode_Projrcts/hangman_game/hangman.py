@@ -1,6 +1,6 @@
 """
 File: hangman.py
-Name:
+Name: Po-Ting Lee
 -----------------------------
 This program plays hangman game.
 Users sees a dashed word, trying to
