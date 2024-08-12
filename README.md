@@ -17,7 +17,7 @@ Watch my  *[DEMO_VIDEOS!].(https://drive.google.com/drive/folders/1Gi3bn9qPW_gR0
   * data structure
 
 
-===========================================================================================================================================
+==========================================================================
 
 ## Machine Learning Project Source Codes:
 
@@ -27,7 +27,7 @@ Watch my  *[DEMO_VIDEOS!].(https://drive.google.com/drive/folders/1Gi3bn9qPW_gR0
 * [Movie Reviews](https://github.com/10pt/MystanCodeProjects/tree/main/stanCode_AI_Projects/MovieReview)
   * Train a model to evaluate Good/Bad reviews from the Rotten Tomatoes dataset.
 
-==========================================================================================================================================
+==========================================================================
 
 ## AI Project Source Codes:
 
